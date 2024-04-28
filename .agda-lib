@@ -1,0 +1,5 @@
+name: agdorable
+include:
+  src
+depend:
+  standard-library
